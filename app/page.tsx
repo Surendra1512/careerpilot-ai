@@ -1,0 +1,1 @@
+import CareerPilotApp from "../components/CareerPilotApp"; export default function Page(){return <CareerPilotApp/>;}
